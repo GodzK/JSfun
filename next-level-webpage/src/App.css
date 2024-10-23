@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 249, 249);
+}
+.btn{
+    width: 8rem;
+    height: 3rem;
+}
+.btn:hover{
+    background-color: rgb(113, 113, 113);
+    color: white;
+    transition: 0.4s;
+}
